@@ -3,4 +3,50 @@
 }
 .tokyo {
     color: blue;
+
+}
+.tokyo h1{
+    margin-bottom: 1px;
+}
+.tokyo-bold{
+    font-weight: 1;
+}
+.saturday{
+    margin-top: 50px;
+
+}
+.sunday{
+    margin-top: 50px;
+
+}
+.tommorow{
+    margin-top: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+button{
+    background-color: #1a64d6;
+    color: white;
+    padding: 15px;
+    border: 1px solid blue;
+    transition: all 200ms ease-in-out;
+    border-radius: 30px;
+    font-size: 16px;
+}
+button:hover{
+    opacity: 1;
+    background-color: white;
+    color: blue;
+    cursor: pointer;
+    
 }
